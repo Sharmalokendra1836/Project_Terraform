@@ -12,7 +12,7 @@ variable "environment" {
 
 variable "project" {
   type        = string
-  description = "project name is Calsoft"
+  description = "project name is Jio"
 }
 
 # VPC
