@@ -6,3 +6,5 @@ modules/terraform-aws-load-balancer/.terraform
 kubeconfig_*
 .terraform.lock.hcl
 /*.txt
+waste.html
+mylogs.log
